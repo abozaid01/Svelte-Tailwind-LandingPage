@@ -5,7 +5,7 @@ const config = {
     screens: {
       sm: '480px',
       md: '786px',
-      lg: '976px',
+      lg: '1220px',
       xlg: '1440px',
     },
     extend: {

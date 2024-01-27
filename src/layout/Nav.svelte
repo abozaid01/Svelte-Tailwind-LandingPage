@@ -12,7 +12,7 @@
   };
 </script>
 
-<nav class="container relative mx-auto p-6">
+<nav class="container mx-auto p-6">
   <div class="flex items-center justify-between">
     <img {src} alt="" />
     <div class="hidden space-x-6 md:flex">
